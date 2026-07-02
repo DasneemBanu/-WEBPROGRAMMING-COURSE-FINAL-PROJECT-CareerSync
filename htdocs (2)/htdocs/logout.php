@@ -1,0 +1,7 @@
+<?php
+require_once __DIR__ . '/includes/session.php';
+
+logoutUser();
+
+header('Location: select_role.php');
+exit;
