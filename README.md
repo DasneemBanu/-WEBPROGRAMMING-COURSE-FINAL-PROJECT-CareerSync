@@ -1,12 +1,10 @@
 # 🎓 CareerSync
 ### *Your Career Journey Starts Here*
-
 > Discover careers that match **YOUR** personality, interests, and dreams.
 
 ---
 
 ## ✨ What We Built
-
 🔐 **Secure Authentication** - Safe login & profile management  
 📝 **Interactive Quiz** - Personality & interest assessment  
 🎯 **Smart Recommendations** - AI-matched career suggestions  
@@ -17,7 +15,14 @@
 
 ## 🚀 Live Demo
 ### **[👉 Visit CareerSync Now](https://careersync.rf.gd/select_role.php?i=1)**
+**NOTE:** If cannot access through Google, copy and paste the link into Microsoft Edge. Thank you!
 
+---
+
+## 💻 Tech Stack
+Frontend: HTML | CSS | JavaScript  
+Backend: PHP  
+Database: MySQL
 
 ---
 
